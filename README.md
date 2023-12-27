@@ -1,6 +1,6 @@
 ### Python Web Automation Repo
 
-## install the important libraries
+## Install the Important Libraries
 
 1. Selenium
 2. Pytest
